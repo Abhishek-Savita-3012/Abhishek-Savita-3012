@@ -429,7 +429,7 @@ Showcasing a collection of software engineering, AI, data engineering, and analy
 
 🏫 **Pranveer Singh Institute of Technology (PSIT), Kanpur**
 
-📈 **CGPA:** **8.47 / 10**
+📈 **CGPA:** **8.55 / 10**
 
 📅 **Graduated:** **2026**
 
@@ -437,7 +437,6 @@ Showcasing a collection of software engineering, AI, data engineering, and analy
 
 ## 🚀 Career Highlights
 
-- 🤖 Built AI-powered applications using modern LLM technologies.
 - 💻 Developed scalable Java applications following Object-Oriented Programming principles.
 - 📊 Designed enterprise-grade Power BI dashboards with actionable business insights.
 - ⚙️ Built ETL pipelines for automated data extraction, transformation, and loading.
