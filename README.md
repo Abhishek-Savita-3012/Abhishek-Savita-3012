@@ -261,7 +261,6 @@ Showcasing a collection of software engineering, AI, data engineering, and analy
 ## 🤖 AI & Machine Learning
 
 <a href="https://github.com/Abhishek-Savita-3012/Document_Summary_Assistant">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Savita-3012&repo=Document_Summary_Assistant&theme=tokyonight&hide_border=true" />
 </a>
 
 **📝 Document Summary Assistant**
@@ -273,7 +272,6 @@ Showcasing a collection of software engineering, AI, data engineering, and analy
 ---
 
 <a href="https://github.com/Abhishek-Savita-3012/Customer-Churn-Prediction-and-Retention-Analytics">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Savita-3012&repo=Customer-Churn-Prediction-and-Retention-Analytics&theme=tokyonight&hide_border=true" />
 </a>
 
 **📈 Customer Churn Prediction & Retention Analytics**
@@ -287,7 +285,6 @@ Showcasing a collection of software engineering, AI, data engineering, and analy
 # 📊 Data Engineering & Analytics
 
 <a href="https://github.com/Abhishek-Savita-3012/etl-pipeline-postgresql">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Savita-3012&repo=etl-pipeline-postgresql&theme=tokyonight&hide_border=true" />
 </a>
 
 **⚙️ ETL Pipeline with PostgreSQL**
@@ -299,7 +296,6 @@ Showcasing a collection of software engineering, AI, data engineering, and analy
 ---
 
 <a href="https://github.com/Abhishek-Savita-3012/Retail-Sales-Inventory-Analytics">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Savita-3012&repo=Retail-Sales-Inventory-Analytics&theme=tokyonight&hide_border=true" />
 </a>
 
 **🛒 Retail Sales & Inventory Analytics**
@@ -311,7 +307,6 @@ Showcasing a collection of software engineering, AI, data engineering, and analy
 ---
 
 <a href="https://github.com/Abhishek-Savita-3012/Airbnb-Global-Performance-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Savita-3012&repo=Airbnb-Global-Performance-Dashboard&theme=tokyonight&hide_border=true" />
 </a>
 
 **🏠 Airbnb Global Performance Dashboard**
@@ -325,7 +320,6 @@ Showcasing a collection of software engineering, AI, data engineering, and analy
 # 💻 Software Engineering
 
 <a href="https://github.com/Abhishek-Savita-3012/Banking-Management-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Savita-3012&repo=Banking-Management-System&theme=tokyonight&hide_border=true" />
 </a>
 
 **🏦 Banking Management System**
@@ -337,7 +331,6 @@ Showcasing a collection of software engineering, AI, data engineering, and analy
 ---
 
 <a href="https://github.com/Abhishek-Savita-3012/Java-Chat-Application">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Savita-3012&repo=Java-Chat-Application&theme=tokyonight&hide_border=true" />
 </a>
 
 **💬 Java Chat Application**
@@ -349,7 +342,6 @@ Showcasing a collection of software engineering, AI, data engineering, and analy
 ---
 
 <a href="https://github.com/Abhishek-Savita-3012/Code-Profile-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Savita-3012&repo=Code-Profile-Analysis&theme=tokyonight&hide_border=true" />
 </a>
 
 **📊 Code Profile Analysis**
@@ -360,3 +352,122 @@ Showcasing a collection of software engineering, AI, data engineering, and analy
 
 ---
 
+<!-- ========================================= -->
+<!--      CERTIFICATIONS & ACHIEVEMENTS        -->
+<!-- ========================================= -->
+
+# 🏆 Certifications & Achievements
+
+## 🎓 Professional Certifications
+
+### 🤖 Artificial Intelligence
+
+| Certification | Provider | Skills |
+|----------------|----------|--------|
+| 🟣 Claude AI Fluency: Framework and Foundations | Anthropic | Generative AI, LLM Fundamentals |
+| 🟣 Claude 101 | Anthropic | Prompt Engineering, Claude AI |
+
+---
+
+### 💻 Programming & Software Development
+
+| Certification | Provider | Skills |
+|----------------|----------|--------|
+| 🟠 Java (Basic) | HackerRank | Java Programming, OOP |
+| 🔴 Oracle Dev Gym | Oracle | SQL Programming |
+| 🟢 Infosys Springboard Certifications | Infosys | Software Development |
+
+---
+
+### 📊 Data Analytics
+
+| Certification | Provider | Skills |
+|----------------|----------|--------|
+| 🔵 Data Classification | IBM SkillsBuild | Data Analytics |
+| 🔵 Data Collection & Analysis | IBM SkillsBuild | Data Collection |
+| 🔵 Data Preparation for Analysis | IBM SkillsBuild | Data Cleaning |
+| 🔵 Data Usability | IBM SkillsBuild | Data Quality |
+| 🔵 Data Visualization & Presentation | IBM SkillsBuild | Power BI, Data Visualization |
+| 🔵 Inferential & Descriptive Statistics | IBM SkillsBuild | Statistics |
+
+---
+
+### ☁️ Cloud Computing
+
+| Certification | Provider | Skills |
+|----------------|----------|--------|
+| 🔴 Oracle Cloud Infrastructure Foundations Associate | Oracle | Cloud Fundamentals |
+| 🟡 AWS Security Fundamentals | Amazon Web Services | Cloud Security |
+
+---
+
+## 🌟 Core Competencies
+
+<div align="center">
+
+| Software Engineering | Artificial Intelligence | Data Engineering |
+|:--------------------:|:----------------------:|:----------------:|
+| Java | Generative AI | ETL Pipelines |
+| OOP | Prompt Engineering | PostgreSQL |
+| REST APIs | Claude AI | SQL |
+| Backend Development | LLM Applications | Data Processing |
+
+| Full Stack Development | Data Analytics | DevOps |
+|:----------------------:|:--------------:|:------:|
+| HTML • CSS • JavaScript | Power BI | Git |
+| Node.js • Express.js | Excel | GitHub |
+| Responsive Web Apps | Pandas • NumPy | Docker |
+| Database Integration | Business Intelligence | Linux |
+
+</div>
+
+---
+
+## 🎓 Academic Achievement
+
+🎓 **Bachelor of Technology (Computer Science & Engineering)**
+
+🏫 **Pranveer Singh Institute of Technology (PSIT), Kanpur**
+
+📈 **CGPA:** **8.47 / 10**
+
+📅 **Graduated:** **2026**
+
+---
+
+## 🚀 Career Highlights
+
+- 🤖 Built AI-powered applications using modern LLM technologies.
+- 💻 Developed scalable Java applications following Object-Oriented Programming principles.
+- 📊 Designed enterprise-grade Power BI dashboards with actionable business insights.
+- ⚙️ Built ETL pipelines for automated data extraction, transformation, and loading.
+- 📈 Implemented Machine Learning models for customer churn prediction and business analytics.
+- 🛒 Developed end-to-end analytics solutions using SQL, Python, and Power BI.
+- 🌐 Built full-stack and backend applications with Java, Node.js, Express.js, and relational databases.
+- 🚀 Passionate about building scalable software, intelligent AI applications, and data-driven solutions.
+
+---
+
+<!-- ========================================= -->
+<!--           GITHUB ANALYTICS                -->
+<!-- ========================================= -->
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Savita-3012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Savita-3012&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Savita-3012&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
