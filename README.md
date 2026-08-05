@@ -466,3 +466,132 @@ Showcasing a collection of software engineering, AI, data engineering, and analy
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhishek-Savita-3012&style=for-the-badge&color=2563EB" />
 </p>
+
+---
+
+<!-- ========================================= -->
+<!--             CODING PROFILES              -->
+<!-- ========================================= -->
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/AbhishekSavita/">
+<img src="https://img.shields.io/badge/LeetCode-AbhishekSavita-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Abhishek-Savita-3012">
+<img src="https://img.shields.io/badge/GitHub-Abhishek--Savita--3012-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/abhishek-savita-b41961276">
+<img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Savita-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+### 🎯 Problem Solving Focus
+
+- 🧩 Data Structures & Algorithms
+- ☕ Java Programming
+- 🐍 Python Programming
+- 🗄️ SQL & Database Design
+- ⚡ Object-Oriented Programming
+- 💡 System Design Fundamentals
+- 🚀 Continuous Learning
+
+---
+
+<!-- ========================================= -->
+<!--          CURRENT LEARNING                -->
+<!-- ========================================= -->
+
+# 🌱 Currently Learning
+
+```text
+☕ Advanced Java & Spring Boot
+🌐 MERN Stack Development
+🤖 AI Agents & LLM Applications
+⚙️ Apache Airflow & ETL Pipelines
+☁️ Cloud Computing (AWS & OCI)
+📦 Docker & Containerization
+🏗️ System Design & Microservices
+📊 Advanced Power BI & Analytics
+```
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Become a strong Software Engineer
+- ✅ Build production-ready Full Stack applications
+- ✅ Master Backend Development with Java
+- ✅ Develop AI-powered intelligent applications
+- ✅ Contribute to Open Source
+- ✅ Solve 500+ DSA problems
+- ✅ Secure an impactful Software Engineering role
+
+---
+
+<!-- ========================================= -->
+<!--            CONNECT WITH ME               -->
+<!-- ========================================= -->
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:asavita3012@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/abhishek-savita-b41961276">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Abhishek-Savita-3012">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/AbhishekSavita/">
+<img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+### 💬 I'm Open To
+
+- 💼 Software Engineering Opportunities
+- 🤖 AI & Machine Learning Projects
+- 🌐 Full Stack Development
+- ⚙️ Backend Development
+- 📊 Data Engineering & Analytics
+- 🚀 Open Source Collaboration
+- 💡 Technical Discussions & Networking
+
+---
+
+<!-- ========================================= -->
+<!--                FOOTER                    -->
+<!-- ========================================= -->
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building scalable software, transforming data into insights, and continuously learning to create meaningful technology."*
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Abhishek-Savita-3012&style=for-the-badge&color=2563EB" />
+
+<br><br>
+
+⭐ If you like my work, consider following my journey and exploring my repositories.
+
+</div>
