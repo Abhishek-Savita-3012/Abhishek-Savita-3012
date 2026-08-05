@@ -453,34 +453,16 @@ Showcasing a collection of software engineering, AI, data engineering, and analy
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <i>Consistency over perfection — every commit is a step forward.</i>
-</p>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Abhishek-Savita-3012&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-
-</div>
-
-<br>
-
 ## 📈 Contribution Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Savita-3012&theme=tokyo-night&hide_border=true" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Savita-3012&theme=tokyo-night&hide_border=true&radius=10" alt="Contribution Graph" />
-
-</div>
-
-<br>
+---
 
 ## 👀 Profile Views
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Abhishek-Savita-3012&style=for-the-badge&color=2563EB" alt="Profile Views" />
-
-</div>
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhishek-Savita-3012&style=for-the-badge&color=2563EB" />
+</p>
