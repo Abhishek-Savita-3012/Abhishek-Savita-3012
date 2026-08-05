@@ -245,3 +245,118 @@ Whether it's developing REST APIs, designing interactive dashboards, creating AI
 </div>
 
 ---
+
+<!-- ========================================= -->
+<!--            FEATURED PROJECTS              -->
+<!-- ========================================= -->
+
+# 🚀 Featured Projects
+
+<p align="center">
+Showcasing a collection of software engineering, AI, data engineering, and analytics projects focused on solving real-world problems.
+</p>
+
+---
+
+## 🤖 AI & Machine Learning
+
+<a href="https://github.com/Abhishek-Savita-3012/Document_Summary_Assistant">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Savita-3012&repo=Document_Summary_Assistant&theme=tokyonight&hide_border=true" />
+</a>
+
+**📝 Document Summary Assistant**
+
+> AI-powered application that intelligently summarizes lengthy documents, helping users quickly extract key insights using Natural Language Processing techniques.
+
+**Tech Stack:** Python • NLP • AI • Streamlit
+
+---
+
+<a href="https://github.com/Abhishek-Savita-3012/Customer-Churn-Prediction-and-Retention-Analytics">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Savita-3012&repo=Customer-Churn-Prediction-and-Retention-Analytics&theme=tokyonight&hide_border=true" />
+</a>
+
+**📈 Customer Churn Prediction & Retention Analytics**
+
+> End-to-end machine learning solution that predicts customer churn, identifies high-risk customers, and provides actionable retention insights.
+
+**Tech Stack:** Python • Scikit-learn • Pandas • Power BI • Machine Learning
+
+---
+
+# 📊 Data Engineering & Analytics
+
+<a href="https://github.com/Abhishek-Savita-3012/etl-pipeline-postgresql">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Savita-3012&repo=etl-pipeline-postgresql&theme=tokyonight&hide_border=true" />
+</a>
+
+**⚙️ ETL Pipeline with PostgreSQL**
+
+> End-to-end ETL pipeline demonstrating data extraction, transformation, validation, and loading into PostgreSQL with scalable workflow design.
+
+**Tech Stack:** Python • PostgreSQL • ETL • SQL • Airflow (Learning)
+
+---
+
+<a href="https://github.com/Abhishek-Savita-3012/Retail-Sales-Inventory-Analytics">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Savita-3012&repo=Retail-Sales-Inventory-Analytics&theme=tokyonight&hide_border=true" />
+</a>
+
+**🛒 Retail Sales & Inventory Analytics**
+
+> Enterprise-style analytics project featuring KPI dashboards, RFM customer segmentation, ABC inventory analysis, sales forecasting, and business intelligence reporting.
+
+**Tech Stack:** SQL • Python • Power BI • Excel • Machine Learning
+
+---
+
+<a href="https://github.com/Abhishek-Savita-3012/Airbnb-Global-Performance-Dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Savita-3012&repo=Airbnb-Global-Performance-Dashboard&theme=tokyonight&hide_border=true" />
+</a>
+
+**🏠 Airbnb Global Performance Dashboard**
+
+> Interactive Power BI dashboard analyzing Airbnb listings, pricing, occupancy, ratings, and host performance across global markets.
+
+**Tech Stack:** Power BI • DAX • Power Query • Excel
+
+---
+
+# 💻 Software Engineering
+
+<a href="https://github.com/Abhishek-Savita-3012/Banking-Management-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Savita-3012&repo=Banking-Management-System&theme=tokyonight&hide_border=true" />
+</a>
+
+**🏦 Banking Management System**
+
+> Console-based banking application implementing customer management, transactions, account operations, validation, and secure database integration.
+
+**Tech Stack:** Java • JDBC • MySQL • OOP
+
+---
+
+<a href="https://github.com/Abhishek-Savita-3012/Java-Chat-Application">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Savita-3012&repo=Java-Chat-Application&theme=tokyonight&hide_border=true" />
+</a>
+
+**💬 Java Chat Application**
+
+> Real-time multi-client chat system using Java Socket Programming and multithreading with live message broadcasting and concurrent client handling.
+
+**Tech Stack:** Java • Socket Programming • TCP/IP • Multithreading
+
+---
+
+<a href="https://github.com/Abhishek-Savita-3012/Code-Profile-Analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Savita-3012&repo=Code-Profile-Analysis&theme=tokyonight&hide_border=true" />
+</a>
+
+**📊 Code Profile Analysis**
+
+> Developer analytics platform that aggregates coding profiles and provides insights into programming activity, problem-solving progress, and technical growth.
+
+**Tech Stack:** Java • JavaScript • HTML • CSS • APIs
+
+---
+
