@@ -38,6 +38,89 @@
 
 </div>
 
+<!-- ========================================= -->
+<!--               ABOUT ME                    -->
+<!-- ========================================= -->
+
+# 🚀 About Me
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+I'm **Abhishek Savita**, a **Computer Science Engineering graduate** passionate about designing and building **scalable software systems, AI-powered applications, and data-driven solutions**.
+
+My journey began with Java programming and has expanded into **Full Stack Development, Backend Engineering, Artificial Intelligence, Data Engineering, and Business Analytics**. I enjoy transforming ideas into practical applications that solve real-world problems while continuously exploring modern technologies.
+
+### 🎯 Current Focus
+
+- 💻 Software Engineering
+- 🤖 AI & Machine Learning Applications
+- 🌐 Full Stack Web Development
+- ☕ Java Backend Development
+- 📊 Data Analytics & Business Intelligence
+- ⚡ Data Engineering & ETL Pipelines
+- ☁️ Cloud & Modern Development Practices
+
+---
+
+## 🌱 Currently Learning
+
+- Spring Boot & Microservices
+- Advanced System Design
+- Docker & Kubernetes
+- Apache Airflow
+- AI Agents & LLM Applications
+- Cloud Technologies
+- Scalable Backend Architecture
+
+---
+
+## 🎓 Education
+
+🎓 **Bachelor of Technology (Computer Science & Engineering)**
+
+📍 Pranveer Singh Institute of Technology (PSIT), Kanpur
+
+🎯 **CGPA:** 8.47 / 10
+
+📅 **Graduated:** 2026
+
+---
+
+## 💡 What Drives Me
+
+I enjoy building technology that combines **clean software engineering, intelligent AI, and meaningful data insights**.
+
+Whether it's developing REST APIs, designing interactive dashboards, creating AI-powered applications, or engineering complete full-stack systems, I'm always excited to learn, build, and improve.
+
+---
+
+## 🌟 Beyond Coding
+
+📸 Photography
+
+🎥 Videography
+
+📚 Learning New Technologies
+
+🧩 Problem Solving
+
+☕ Coffee + Late Night Coding
+
+🚀 Open Source Exploration
+
+---
+
+## 🤝 Open To
+
+- Software Engineering Roles
+- AI Engineering Roles
+- Full Stack Development
+- Backend Development
+- Data Engineering
+- Data Analytics
+- Open Source Collaborations
+
+---
 ---
 
 <div align="center">
