@@ -447,42 +447,40 @@ Showcasing a collection of software engineering, AI, data engineering, and analy
 
 ---
 
+<!-- ========================================= -->
+<!--            GITHUB ANALYTICS               -->
+<!-- ========================================= -->
+
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Savita-3012&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Savita-3012&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <i>Consistency over perfection — every commit is a step forward.</i>
+</p>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Abhishek-Savita-3012&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Abhishek-Savita-3012&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 
 </div>
 
-## 📈 Contribution Graph
+<br>
 
-<p align="center">
+## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Savita-3012&theme=tokyo-night&hide_border=true"/>
+<div align="center">
 
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Savita-3012&theme=tokyo-night&hide_border=true&radius=10" alt="Contribution Graph" />
 
-## 🏆 GitHub Trophies
+</div>
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Savita-3012&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
+<br>
 
 ## 👀 Profile Views
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Abhishek-Savita-3012&style=for-the-badge&color=2563EB"/>
+<img src="https://komarev.com/ghpvc/?username=Abhishek-Savita-3012&style=for-the-badge&color=2563EB" alt="Profile Views" />
 
-</p>
+</div>
+
+---
