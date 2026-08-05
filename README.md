@@ -38,6 +38,16 @@
 
 </div>
 
+---
+
+<div align="center">
+
+### 💡 *"Turning ideas into software, data into insights, and challenges into opportunities."*
+
+</div>
+
+---
+
 <!-- ========================================= -->
 <!--               ABOUT ME                    -->
 <!-- ========================================= -->
@@ -80,7 +90,7 @@ My journey began with Java programming and has expanded into **Full Stack Develo
 
 📍 Pranveer Singh Institute of Technology (PSIT), Kanpur
 
-🎯 **CGPA:** 8.47 / 10
+🎯 **CGPA:** 8.55 / 10
 
 📅 **Graduated:** 2026
 
@@ -121,11 +131,116 @@ Whether it's developing REST APIs, designing interactive dashboards, creating AI
 - Open Source Collaborations
 
 ---
----
+
+<!-- ========================================= -->
+<!--              TECH ARSENAL                 -->
+<!-- ========================================= -->
+
+# ⚡ Tech Arsenal
 
 <div align="center">
 
-### 💡 *"Turning ideas into software, data into insights, and challenges into opportunities."*
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql" />
+</p>
+
+---
+
+### 🌐 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react" />
+</p>
+
+---
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,nodejs,express" />
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OOP-0E75B6?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+---
+
+### 📊 Data Analytics
+
+<p>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql"/>
+
+</p>
+
+---
+
+### 🤖 AI & Machine Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
+
+<img src="https://img.shields.io/badge/Generative_AI-0E75B6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-7B61FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-10A37F?style=for-the-badge"/>
+
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow"/>
+
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions"/>
+
+</p>
+
+---
+
+### 🛠️ Developer Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman" />
+
+</p>
 
 </div>
 
